@@ -1,0 +1,31 @@
+# Pahina Builder Suite
+
+> AI-Powered Website & Sales Funnel Generator by Digitera Levi (Levi Mariano, Philippines). Users fill in business details and Pahina Builder Suite writes and designs a complete sales page, website or sales funnel, without manual coding.
+
+## Who it is for
+- Virtual assistants and freelancers who want to offer website and sales funnel services to clients.
+- Small business owners who want their own sales page or website.
+
+## What it does
+- Builds sales funnels, business websites, sales pages, portfolios, product catalogs, lead magnet funnels, booking funnels and course pages.
+- Unlimited pages and funnels, including pages for clients.
+- Funnel pages: opt-in, sales, upsell, downsell, thank-you, about, services, contact and booking.
+- Checkout and payment options, booking, FAQ chatbot, opt-in with free gift, coupons and order bump.
+- Built-in SEO for every page: title and description, social sharing tags, structured data, sitemap, robots.txt and llms.txt in the export.
+- Editing tools: edit text and images, move and reorder sections, AI assistant, versions and undo.
+
+## Pricing
+- One-time payment of PHP 3,495. No monthly software subscription.
+- Uses the buyer's own free Google Gemini API key; Gemini free-tier daily usage limits apply.
+- Access is delivered automatically by email after payment (app link, guide link and license key).
+- Refund policy is fix-first: report a problem within 3 days, it is fixed within 48 hours, and a refund is given only if it cannot be fixed.
+- Buyers may build unlimited pages for clients. Reselling the app itself requires the separate White Label license.
+
+## Key links
+- Sales page: https://pahinabuilderpage.vercel.app/
+- Buy Pahina Builder Suite: https://digitera-storefront.vercel.app/#pahina-builder-suite
+- Master Guide: https://pahinabuilderguide38.vercel.app/
+- Contact on Messenger: https://www.messenger.com/t/118441451362301
+
+## About the maker
+Digitera Levi ("Build. Share. Earn.") is a Filipino solo digital entrepreneur brand that makes AI tools and automation systems for online sellers, freelancers and small businesses.
